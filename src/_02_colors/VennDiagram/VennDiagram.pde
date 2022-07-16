@@ -1,1 +1,10 @@
 size(600,600);
+fill(255, 0, 0, 100);
+ellipse(250, 200, 200, 200);
+fill(0, 255, 0, 100);
+ellipse(350, 200, 200, 200);
+fill(0, 0, 255, 100);
+ellipse(300, 300, 200, 200);
+text("OUTRAGE", 200, 200);
+text("FRIVOLOUS", 350, 200);
+text("TRANQUIL", 275, 325);
